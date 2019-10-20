@@ -5,11 +5,4 @@
   <artifactId>sample</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>sample</name>
-  <description>Just a pom that makes it easy to build both projects at the same time.</description>
-  <modules>
-    <module>multi-module</module>
-    <module>single-module</module>
-  </modules>
-
 </project>
